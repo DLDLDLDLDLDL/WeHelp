@@ -20,7 +20,7 @@ django-haystack==2.8.1
 django-ranged-response==0.2.0
 django-simple-captcha==0.5.9
 django-widget-tweaks==1.4.3
-djangorestframework==3.9.0
+djangorestframework==3.11.2
 hiredis==0.2.0
 hyperlink==18.0.0
 idna==2.7
